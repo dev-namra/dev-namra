@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Namra Mahak</h1>
 <h3 align="center">An architect turned Developer.</h3>
-<img src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif" width="400" align="right" alt="coding">
+<img src="https://cdn.dribbble.com/users/189524/screenshots/2103470/01-black-cat_800x600_v1.gif" width="400" align="right" alt="coding">
 
 - 🔭 I’m currently working on **E-commerce Website**
 
