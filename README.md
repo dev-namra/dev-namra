@@ -38,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -55,8 +54,6 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobephotoshop/adobephotoshop-plain.svg" alt="Adobe Photoshop" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/procreate/procreate-original.svg" alt="Procreate" width="40" />
 </p>
 
 ### 🐍 Programming Languages
