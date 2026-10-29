@@ -2,9 +2,6 @@
 <h3 align="center">🏛️ Architect turned Full-Stack Developer | BIM & Digital Construction Specialist</h3>
 
 <p align="center">
-  <a href="https://dev-namra.github.io/namramahak/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-  </a>
   <a href="mailto:mahaknamra@outlook.com">
     <img src="https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
   </a>
@@ -25,7 +22,6 @@ I started out as a trained **architect** — five years of architectural educati
 - 🔧 Comfortable across the stack: **Revit API / C#** on the BIM side, **React, TypeScript, Node.js** on the web side
 - 🎯 Interested in where **digital twins, ISO 19650 workflows, and clash detection** meet good software engineering
 - 📫 Reach me at: **mahaknamra@outlook.com**
-- 🌐 Portfolio: [dev-namra.github.io](https://dev-namra.github.io/namramahak/)
 
 ---
 
@@ -86,5 +82,4 @@ I started out as a trained **architect** — five years of architectural educati
 
 - 📧 Email: [mahaknamra@outlook.com](mailto:mahaknamra@outlook.com)
 - 🔗 LinkedIn: [linkedin.com/in/namra-mahak](https://linkedin.com/in/namra-mahak)
-- 🌐 Portfolio: [dev-namra.github.io](https://dev-namra.github.io/namramahak/)
 
